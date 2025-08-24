@@ -111,7 +111,7 @@
     height: 200px;
 }
 
-.arriba{
+.abajo{
     width: 200px;
     height: 200px;
     border-radius: 50% 0% 50% 50%;
@@ -126,7 +126,7 @@
     border: rgb(16, 24, 181) solid
 }
 
-.abajo{
+.arriba{
     width: 200px;
     height: 200px;
     margin-top: -100px;
